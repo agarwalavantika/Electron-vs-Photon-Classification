@@ -1,10 +1,10 @@
-# 🔬 Electron vs Photon Classification | GSoC Project
+#  Electron vs Photon Classification | GSoC Project
 
 This project is a part of my GSoC-related work involving the classification of electrons and photons using machine learning techniques. The notebook explores various approaches and preprocessing steps to build an effective classifier, using data provided from a high-energy physics context.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 In high-energy physics experiments, identifying whether a particle is an electron or a photon is crucial. This notebook demonstrates a machine learning pipeline to:
 
@@ -15,7 +15,7 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 ---
 
-## 📂 Contents
+##  Contents
 
 - `gsoc-electronphoton-classification.ipynb` – Main Jupyter Notebook with all code and results.
 - `data/` – Folder to include dataset files (not included here due to size).
@@ -24,7 +24,7 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - Pandas
@@ -36,7 +36,7 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 ---
 
-## 📊 Model Metrics
+##  Model Metrics
 
 - **Accuracy:** 0.7510
 - **Precision:**  1.0000
@@ -47,9 +47,9 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
-> ⚠️ **Note**: The dataset used in this notebook is not included in this repository due to file size limitations or licensing constraints.
+>  **Note**: The dataset used in this notebook is not included in this repository due to file size limitations or licensing constraints.
 
 - Dataset: _Specify source or whether it's synthetic/Kaggle-provided_
 - Features:
@@ -59,7 +59,7 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 ---
 
-## 🚀 Running the Notebook
+##  Running the Notebook
 
 To run the notebook locally:
 
