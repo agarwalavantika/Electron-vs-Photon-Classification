@@ -40,7 +40,7 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 - **Accuracy:** 0.7510
 - **Precision:**  1.0000
-- **F1 Score:** _0.7510
+- **F1 Score:** 0.7510
 - **Confusion Matrix & ROC Curve**
 - ![image](https://github.com/user-attachments/assets/d90148a3-5878-4826-aad7-f00f76a8ca46)
 - ![image](https://github.com/user-attachments/assets/88ef0aff-b908-453c-934b-98d546e5f72d)
