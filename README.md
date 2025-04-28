@@ -38,10 +38,12 @@ In high-energy physics experiments, identifying whether a particle is an electro
 
 ## 📊 Model Metrics
 
-- **Accuracy:** _Add here_
-- **Precision & Recall:** _Add here_
-- **F1 Score:** _Add here_
-- **Confusion Matrix & ROC Curve** included for visual inspection.
+- **Accuracy:** 0.7510
+- **Precision:**  1.0000
+- **F1 Score:** _0.7510
+- **Confusion Matrix & ROC Curve**
+- ![image](https://github.com/user-attachments/assets/d90148a3-5878-4826-aad7-f00f76a8ca46)
+- ![image](https://github.com/user-attachments/assets/88ef0aff-b908-453c-934b-98d546e5f72d)
 
 ---
 
